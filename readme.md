@@ -1,0 +1,1 @@
+Python port for the paper Martin BT, Sparks D, Hein AM, Liao JC. 2024 Fish couple forecasting with feedback control to chase and capture moving prey. Proc. R. Soc. B 291: 20241463. https://doi.org/10.1098/rspb.2024.1463
