@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *.csv
+/.vscode/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
@@ -12,6 +13,30 @@ R_files/
 # Ignore system files
 .DS_Store
 Thumbs.db
+/julia/
+/redo_Rcode/
+.gitignore
+
+# Ignore image files
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.svg
+*.webp
+
+# Ignore video files
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wmv
+*.flv
+*.webm
+
+# Ignore GIF files
+*.gif
 
 # Ignore log files
 *.log
